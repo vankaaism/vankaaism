@@ -1,7 +1,7 @@
 <h2> Hi, I'm Vankaa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Industrial Engineering student at <a href="https://telkomuniversity.ac.id/">Telkom University</a>
 
-[![Twitter: vankaaisme._](https://img.shields.io/twitter/follow/vankaaisme_?style=social)]((https://x.com/vankaaisme_))
+[![Twitter: mizannnieh](https://img.shields.io/twitter/follow/mizannnieh?style=social)]((https://x.com/mizannnieh))
 [![Linkedin: zovanka-maizani](https://img.shields.io/badge/-Zovanka_Al_Maizani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zovanka-maizani/)](https://www.linkedin.com/in/zovanka-maizani/)
 [![GitHub vankaaisme._](https://img.shields.io/github/followers/vankaaism?label=follow&style=social)](https://github.com/vankaaism)
 
