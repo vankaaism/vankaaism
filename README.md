@@ -2,7 +2,6 @@
 <p><em>Industrial Engineering student at <a href="https://telkomuniversity.ac.id/">Telkom University</a>
 
 [![Twitter: mizannnieh](https://img.shields.io/twitter/follow/mizannnieh?style=social)](https://twitter.com/intent/follow?screen_name=mizannnieh)
-
 [![Linkedin: zovanka-maizani](https://img.shields.io/badge/-Zovanka_Al_Maizani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zovanka-maizani/)](https://www.linkedin.com/in/zovanka-maizani/)
 [![GitHub vankaaisme._](https://img.shields.io/github/followers/vankaaism?label=follow&style=social)](https://github.com/vankaaism)
 
