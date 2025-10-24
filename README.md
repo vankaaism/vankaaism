@@ -1,5 +1,5 @@
 <h2> Hi, I'm Vankaa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Industrial Engineering student at <a href="https://telkomuniversity.ac.id/">Telkom University</a>
+<p><em>Philosophy and Psychology student at <a href="https://share.google/ZB8NYRz3YIXIzjrQ2">University of Indonesia</a>
 
 [![Twitter: mizannnieh](https://img.shields.io/twitter/follow/mizannnieh?style=social)](https://twitter.com/intent/follow?screen_name=mizannnieh)
 [![Linkedin: zovanka-maizani](https://img.shields.io/badge/-Zovanka_Al_Maizani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zovanka-maizani/)](https://www.linkedin.com/in/zovanka-maizani/)
