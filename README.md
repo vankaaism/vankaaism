@@ -17,7 +17,7 @@ const vankaa = {
   techCommunities: {
                         404: Not Found
                       },
- challenge: "I am trying to be a part of GDGoC Telkom University"
+ challenge: "I am trying to be MYSELF"
 }
 ```
 
