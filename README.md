@@ -11,14 +11,15 @@
 ```javascript
 const vankaa = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [Visual Studio Code, Homebrew, Xcode],
-  architecture: ["Linear Regression Model", "FFNN", "Decision Trees"],
+  code: [Python, SQL, R],
+  tools: [PyTorch, TensorFlow, Jupyter Notebook],
+  architecture: ["CNN", "Transformer", "LSTM"],
   techCommunities: {
                         404: Not Found
                       },
- challenge: "I am trying to be MYSELF"
+  challenge: "Learning AI one model at a time"
 }
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
